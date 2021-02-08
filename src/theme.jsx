@@ -4,7 +4,8 @@ const theme = createMuiTheme({
   palette: {
     background: { default: "#ffebee" },
     primary: { main: "#e0f7fa" },
-    secondary: { main: "#fff9c4" },
+    secondary: { main: "#ad1457" },
+    white: { main: "#fce4ec" },
   },
   typography: { fontFamily: "IRANSans" },
 });

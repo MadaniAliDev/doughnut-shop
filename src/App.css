@@ -16,3 +16,17 @@ h3 {
   margin-top: 70px;
   color: rgb(73, 9, 49);
 }
+
+h4 {
+  margin-left: 630px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: rgb(73, 9, 49);
+}
+h5 {
+  margin-top: -20px;
+  margin-left: 660px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: rgb(73, 9, 49);
+}
